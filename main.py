@@ -3,6 +3,7 @@ Group 2:
 	Borja, Czarina Khiara
 	Cabildo, Picolo Jasper
 	Calendario, Mark Kenneth
+	Calubayan, Christaline
 	Caritativo, Renz Carlo
 	Rosales, Denelle Dione
 	Ong, Zoe Tatianna
